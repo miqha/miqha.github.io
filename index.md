@@ -2,10 +2,10 @@
 
 ## Персональные данные
 
-Дата рождения: 06.11.2003
-Город: Санкт-Петербург
-Контакты: [Telegram](t.me/miqha) / [mail](mailto:miqha@yandex.ru)
-Github: [Github](github.com/miqha)
+- Дата рождения: 06.11.2003
+- Город: Санкт-Петербург
+- Контакты: [Telegram](t.me/miqha) / [mail](mailto:miqha@yandex.ru)
+- Github: [Github](github.com/miqha)
 
 ## Образование
 
